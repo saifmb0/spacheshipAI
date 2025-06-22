@@ -1,0 +1,12 @@
+openai
+kafka-python
+streamlit
+kafka
+sqlite3
+django
+docxtpl
+docx2pdf
+djangorestframework
+requests
+pandas
+datetme

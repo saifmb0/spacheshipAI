@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Django stuff:
+*.sqlite3
+*.db
+*.log
+
+# Environment variables
+.env
+
+# Office files
+*.docx
+
+# VS Code
+.vscode/
+
+# Qodo
+.qodo/
+
+# Misc
+*.bak
+*.tmp

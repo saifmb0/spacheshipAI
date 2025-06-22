@@ -1,0 +1,50 @@
+.st-emotion-cache-13k62yr{
+    
+    
+}
+/*
+    For the login button, adjust it to the center
+*/
+.stButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*
+    For the title "SpaceShipAi", adjust to the top left corner and left some free space underneath it
+*/
+.st-emotion-cache-1cvow4s h1{
+    padding: -20px;
+    float: left;
+    padding-top: 0px;
+    padding-bottom: 200px;
+}
+/*
+    For the username and password input containers, made them centered and reduce their width
+*/
+.st-ba {
+    margin: auto;
+    width: 500px;
+    
+}
+/*
+    For the username and password text above each container, made them kinda centered and little bit to the left
+*/
+.st-emotion-cache-1qg05tj{
+    justify-content: center;
+    padding-right: 23%;
+}
+.title {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 32px;
+    font-weight: bold;
+}
+.error-text {
+    color: red;
+    font-size: 14px;
+}
+/*
+    Not fully done, left the background image(if possible), and the api key call to go to the other pages if success login(Astonaut/Spaceship)
+*/
