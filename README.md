@@ -57,12 +57,3 @@ UI/           # Frontend (Python-based UI, pages, static assets)
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](LICENSE)
-
-## Authors
-- [Your Name](https://github.com/yourusername)
-
----
-Feel free to update this README with more details as your project evolves.
